@@ -1,7 +1,7 @@
 {
   "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
   "1.20.1": {
-    "1.0": "Reserved Mod: Added: Inhabitant Creeper - Entity, Inhabited - Effect" 
+    "1.0": "Reserved Mod: Added Entity: Inhabitant Creeper, Added Effects: Inhabited, Added Advancement: The Creeper Dweller, Added Spawn Egg: Inhabitant Creeper" 
   },
   "promos": {
     "1.20.1-latest": "1.0",

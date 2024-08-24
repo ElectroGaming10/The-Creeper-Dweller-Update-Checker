@@ -1,7 +1,7 @@
 {
   "homepage": "Electro's Web Center: https://sites.google.com/view/electrosapps/electros-addons/minecraft-mods-forge",
   "1.20.1": {
-    "0.2": "Reserved Mod: Renamed Entity: Inhabitant Creeper -> Implement Creeper, Renamed Effects: Inhabited -> Madden, Added Advancement: The Creeper Dweller, Added Spawn Egg: Implement Creeper, Added Languages: English, Added Procedures/Systems: Entity Immunities, MDHT Counter, Madden Attack System, Modified: Madden, Others: Added Title Screen Music",
+    "0.2": "Reserved Mod: Renamed Entity: Inhabitant Creeper -> Implement Creeper, Renamed Effects: Inhabited -> Madden, Renamed Item: Inhabitant Creeper Level: 3 Spawn Egg-> Implement Creeper Level: 3 Spawn Egg, Added Languages: English, Added Procedures/Systems: Entity Immunities, MDHT Counter, Madden Attack System, Modified: Madden, Others: Added Title Screen Music",
     "0.1": "Reserved Mod: Added Entity: Inhabitant Creeeper, Added Item: Inhabitant Creeper Spawn Egg, Added Effect: Inhabited, Gamerule: Added Dweller Features, Added Languages: English, Others: Mod Checker System, Spawn Egg System, Inhabited Attacks System, Entity Immunity System" 
   },
   "promos": {
